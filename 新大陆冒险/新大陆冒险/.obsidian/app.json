@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./图章背包",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "tabSize": 2,
+  "vimMode": false,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "战斗记录"
+}

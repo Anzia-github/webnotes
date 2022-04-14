@@ -1,0 +1,13 @@
+- 搜索引擎优化
+- TDK
+	- title
+	- keyword
+	- description
+- 提高SEO的方法
+	1. 合理的TDK
+	2. [[语义化]]HTML标签
+	3. 重要的HTML代码放前面
+	4. 重要的内容不要用JS输出
+	5. 少用[[iframe]]
+	6. 图片加alt
+	7. 提高网站速度

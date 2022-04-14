@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1c8b99cc073b7729",
+    "type": "split",
+    "children": [
+      {
+        "id": "622dedae912d3892",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "战斗记录/Event Loop.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7776548a63cf04",
+    "type": "split",
+    "children": [
+      {
+        "id": "66463f93536fcba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2445d4473f15b504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb5e3aa7f5c55783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b6ec3b0a64be342f",
+    "type": "split",
+    "children": [
+      {
+        "id": "550cd0a79108be4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aafbc1f649a249b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "战斗记录/Event Loop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d73279806652afe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "战斗记录/Event Loop.md"
+              }
+            }
+          },
+          {
+            "id": "016821987ffaa5b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e90121f7177d0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "战斗记录/Event Loop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "622dedae912d3892",
+  "lastOpenFiles": [
+    "战斗记录/Event Loop.md",
+    "战斗记录/微任务.md",
+    "战斗记录/宏任务.md",
+    "冒险日记/2022-04-14.md",
+    "冒险日记/2022-04-10.md",
+    "魔法书定制/Study.md",
+    "战斗记录/href.md",
+    "战斗记录/async.md",
+    "战斗记录/script.md",
+    "前端大法师/战斗技能树状图.md"
+  ]
+}

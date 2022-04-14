@@ -1,0 +1,5 @@
+- 在JavaScript中，任务被分为两种
+	- [[宏任务]]MacroTask
+	- [[微任务]]MicroTask
+- JavaScript有一个**main thread**主线程和**call-stack**调用栈（执行栈）
+- 所有的任务都会被放到调用栈等待主线程执行
