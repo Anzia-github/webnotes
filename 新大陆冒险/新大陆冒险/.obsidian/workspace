@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Event Loop.md",
+            "file": "战斗记录/异步任务.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Event Loop.md",
+                "file": "战斗记录/异步任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Event Loop.md"
+                "file": "战斗记录/异步任务.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Event Loop.md",
+                "file": "战斗记录/异步任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "622dedae912d3892",
   "lastOpenFiles": [
+    "战斗记录/异步任务.md",
     "战斗记录/Event Loop.md",
+    "战斗记录/同步任务.md",
     "战斗记录/微任务.md",
     "战斗记录/宏任务.md",
     "冒险日记/2022-04-14.md",
     "冒险日记/2022-04-10.md",
     "魔法书定制/Study.md",
     "战斗记录/href.md",
-    "战斗记录/async.md",
-    "战斗记录/script.md",
-    "前端大法师/战斗技能树状图.md"
+    "战斗记录/async.md"
   ]
 }
