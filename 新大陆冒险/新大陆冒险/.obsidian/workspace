@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "622dedae912d3892",
+        "id": "0ed9c845335a6e9a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "战斗记录/异步任务.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +65,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/异步任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "战斗记录/异步任务.md"
-              }
+              "state": {}
             }
           },
           {
@@ -101,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/异步任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +100,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "1d9b90c8fe9fea47",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
@@ -120,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "622dedae912d3892",
+  "active": "0ed9c845335a6e9a",
   "lastOpenFiles": [
-    "战斗记录/异步任务.md",
-    "战斗记录/Event Loop.md",
-    "战斗记录/同步任务.md",
-    "战斗记录/微任务.md",
-    "战斗记录/宏任务.md",
-    "冒险日记/2022-04-14.md",
-    "冒险日记/2022-04-10.md",
+    "前端大法师/战斗技能树状图.md",
     "魔法书定制/Study.md",
-    "战斗记录/href.md",
-    "战斗记录/async.md"
+    "魔法书定制/Sport.md",
+    "魔法书定制/Reflect.md",
+    "魔法书定制/Read.md",
+    "魔法书定制/Entertain.md",
+    "魔法书定制/Account.md",
+    "战斗记录/Record.md",
+    "冒险日记/2022-04-14.md",
+    "冒险日记/2022-04-13.md"
   ]
 }

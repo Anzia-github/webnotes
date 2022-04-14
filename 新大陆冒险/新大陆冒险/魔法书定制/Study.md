@@ -1,4 +1,4 @@
-⏰Record time：{{time}}
+⏰[[Record]] time：{{time}}
 
 ✈️Learning tasks performed today？
 

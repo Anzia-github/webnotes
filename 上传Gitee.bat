@@ -1,4 +1,4 @@
 git add .
-git commit -m '上传内容'
-git push origin master
+git commit -m 'onload_documents'
+git push master
 pause
