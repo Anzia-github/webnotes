@@ -1,13 +1,10 @@
-🎮How long have you spend on entertainment?
+🎮How long have you spend for fun?
 
 
-🧸What are the categories of entertainment?
+🕹️What scenes and reasons drive you to entertain?
 
 
-💙Do you feel happy after entertainment?
-
-
-👨‍💻What will you master if you change your entertainment time to study?
+👨‍💻What will you do next time this happens?
 
 
 ---

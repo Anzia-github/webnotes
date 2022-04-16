@@ -39,5 +39,8 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "editor:toggle-blockquote": [],
+  "templater-obsidian:insert-templater": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": []
 }

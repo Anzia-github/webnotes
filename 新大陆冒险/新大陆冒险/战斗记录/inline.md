@@ -1,0 +1,20 @@
+- 效果
+	- 格式
+		- 不会另起一行
+	- 内容
+		- 只能包含文本和其他内联元素
+	- 属性
+		- width和height无效
+
+- 包含的元素
+	- [[a]]
+	- [[b]]
+	- [[span]]
+	- [[img]]
+	- [[strong]]
+	- [[label]]
+	- [[button]]
+	- [[input]]
+	- [[select]]
+	- [[text]]
+	- [[textarea]]

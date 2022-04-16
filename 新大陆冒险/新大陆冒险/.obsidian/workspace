@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed9c845335a6e9a",
+        "id": "86f81beb8be22309",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "战斗记录/defer.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "战斗记录/defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -75,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "战斗记录/defer.md"
+              }
             }
           },
           {
@@ -92,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "战斗记录/defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,24 +120,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0ed9c845335a6e9a",
+  "active": "86f81beb8be22309",
   "lastOpenFiles": [
+    "战斗记录/defer.md",
+    "战斗记录/script.md",
     "前端大法师/战斗技能树状图.md",
-    "魔法书定制/Study.md",
-    "魔法书定制/Sport.md",
-    "魔法书定制/Reflect.md",
-    "魔法书定制/Read.md",
-    "魔法书定制/Entertain.md",
-    "魔法书定制/Account.md",
-    "战斗记录/Record.md",
-    "冒险日记/2022-04-14.md",
-    "冒险日记/2022-04-13.md"
+    "战斗记录/async.md",
+    "冒险日记/2022-04-09.md",
+    "战斗记录/@import.md",
+    "战斗记录/link.md",
+    "战斗记录/().md",
+    "战斗记录/CSS.md",
+    "战斗记录/Array.md"
   ]
 }

@@ -9,5 +9,10 @@
   "vimMode": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "战斗记录"
+  "newFileFolderPath": "战斗记录",
+  "useTab": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
 }

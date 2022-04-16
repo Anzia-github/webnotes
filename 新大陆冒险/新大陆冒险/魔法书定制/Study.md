@@ -3,13 +3,13 @@
 ✈️Learning tasks performed today？
 
 
-📊Today's learning progress is？
+📊Can you describe the expected schedule for the day？
 
 
-📐Study status？
+📐What are your emotions in each study？
 
 
-💼What is the focus and effort on the outside world today？
+💼What is the focus and effort on the outside world？
 
 
 ---

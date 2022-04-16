@@ -1,10 +1,12 @@
-🧐What progress have you made with your efforts today?
+💖What is happiness today?
 
 
-😳The reason why the customized goal is not executed is because？
+🌹Are you living your ideal day？
 
 
-🤔What the obstacles that arise today? How did you face it? How are you going to solve it?
+🎵What is the best song to hear today?
 
+
+📝Write a sentence to motivate yourself tomorrow.
 
 ---

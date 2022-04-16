@@ -1,10 +1,10 @@
-💸How much did you cost today?
+💸Number of money spent and where?
 
 
-📋What categories did you cost mainly?
+🚫What money is unnecessary?
 
 
-🚯What money is unnecessary?
+💰What scenes and reasons drive you to spend money?
 
 
 ---
