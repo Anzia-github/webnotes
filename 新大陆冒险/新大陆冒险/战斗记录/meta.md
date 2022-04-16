@@ -1,0 +1,2 @@
+-  The `<meta>` tag defines metadata about an HTML document.
+	- `<meta charset="UTF-8">`

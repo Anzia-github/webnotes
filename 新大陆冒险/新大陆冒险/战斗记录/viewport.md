@@ -11,5 +11,6 @@
 	- 一般来说
 		- 视窗视口 > 可见视口
 
+>`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - [[viewport]]属性值
 ![[Pasted image 20220414111431.png]]

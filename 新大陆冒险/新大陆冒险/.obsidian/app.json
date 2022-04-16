@@ -5,12 +5,12 @@
   "attachmentFolderPath": "./图章背包",
   "showLineNumber": true,
   "spellcheck": false,
-  "tabSize": 2,
+  "tabSize": 4,
   "vimMode": false,
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "战斗记录",
-  "useTab": false,
+  "useTab": true,
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/defer.md",
+            "file": "前端大法师/Front end Knowledge.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/defer.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/defer.md"
+                "file": "前端大法师/Front end Knowledge.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/defer.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "86f81beb8be22309",
   "lastOpenFiles": [
-    "战斗记录/defer.md",
-    "战斗记录/script.md",
-    "前端大法师/战斗技能树状图.md",
-    "战斗记录/async.md",
+    "前端大法师/Front end Knowledge.md",
+    "冒险日记/2022-04-16.md",
     "冒险日记/2022-04-09.md",
-    "战斗记录/@import.md",
-    "战斗记录/link.md",
-    "战斗记录/().md",
-    "战斗记录/CSS.md",
-    "战斗记录/Array.md"
+    "魔法书定制/Reflect.md",
+    "冒险日记/2022-04-14.md",
+    "冒险日记/2022-04-15.md",
+    "冒险日记/2022-04-13.md",
+    "战斗记录/WebSocket.md",
+    "战斗记录/浏览器内多个标签页之间的通信.md",
+    "战斗记录/同源.md"
   ]
 }
