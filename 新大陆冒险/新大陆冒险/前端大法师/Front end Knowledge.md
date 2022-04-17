@@ -28,6 +28,9 @@
   	- [[localStorage]]
   	- [[sessionStorage]]
   	- 浏览器内多个标签页之间的通信
+  	- [[Page Visibility]] API
+  	- [[渐进增强]]
+  	- [[优雅降级]]
   - CSS
   - JS
   	- API

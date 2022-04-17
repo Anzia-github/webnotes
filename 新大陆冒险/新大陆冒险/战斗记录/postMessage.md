@@ -1,0 +1,15 @@
+- postMessage
+	- 定义
+		- 允许来自不同源的脚本采用[[异步]]方式进行有效的通信
+		- 可以实现跨文本文档、多窗口、跨域消息传递
+	- 方法
+		- `otherWindow.postMessage(message, targetOrigin, [transfer])`
+			- otherWindow
+				- 其他窗口的一个引用
+			- message
+				- 将要发送到其他window的数据
+			- targetOrigin
+				- 通过窗口的origin属性来指定哪些窗口能接收到消息事件
+			- tranfer
+				- 可选
+				- 是一串和message同时传递的Transferable对象
