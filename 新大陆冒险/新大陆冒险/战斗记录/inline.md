@@ -5,16 +5,23 @@
 		- 只能包含文本和其他内联元素
 	- 属性
 		- width和height无效
+		- padding和margin的left和right是可以设置的
 
 - 包含的元素
 	- [[a]]
 	- [[b]]
 	- [[span]]
 	- [[img]]
+		- inline-block
 	- [[strong]]
 	- [[label]]
 	- [[button]]
+		- inline-block
 	- [[input]]
+		- inline-block
 	- [[select]]
 	- [[text]]
 	- [[textarea]]
+		- inline-block
+
+- 设置成浮动之后变成inline-block

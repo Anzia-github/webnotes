@@ -1,0 +1,23 @@
+- 定义
+	- 格式化上下文
+	- 一个独立的渲染区域
+- 条件
+	- 浮动元素
+		- float除none
+	- [[position]]
+		- absolute
+		- fixed
+	- [[display]]
+		- inline-block
+		- table-cell
+		- table-caption
+	- [[overflow]]
+		- hidden
+		- auto
+		- scroll
+- 特性
+	- 内部的box会在垂直方向一个接一个的放置
+	- 垂直方向上的距离由margin决定
+	- [[BFC]]的区域不会与float的区域重叠
+	- 计算[[BFC]]的高度时，浮动元素也会跟着计算
+	- 容器内部的子元素不会影响外面元素

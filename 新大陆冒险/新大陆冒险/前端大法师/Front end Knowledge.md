@@ -44,14 +44,23 @@
 	  - [[清除浮动]]的方法
 	  - [[伪元素]]
 	  - [[伪类]]
+	  - [[选择器]]
+	  - [[垂直居中]]
+	  - [[BFC]]
+	  - [[布局]]
+	  - [[图片格式]]
+	  - [[CSS]] sprite [[雪碧图]]
+	  - [[rgba]]()和[[opacity]]的透明效果区别
+	  - [[性能优化]]
+	  - [[transition]]
   - [[JS]]
-  	- API
-  		- [[Array]]
-  		- [[String]]
-  		- [[Math]]
-  		- [[Date]]
-  		- [[DOM]]  
-  		- I/O
+	  -  API
+		  - [[Array]]
+		  - [[String]]
+		  - [[Math]]
+		  - [[Date]]
+		  - [[DOM]]  
+		  - I/O
   - Vue
   - Mini Program
   - React

@@ -1,0 +1,8 @@
+- 被点击访问过的超链接样式
+- 不再具有hover和active
+- 解决方法
+	- 改变[[CSS]]属性的排列顺序
+		- link
+		- visited
+		- hover
+		- active

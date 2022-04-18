@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/伪元素.md",
+            "file": "冒险日记/2022-04-18.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "position",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/伪元素.md",
+                "file": "冒险日记/2022-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/伪元素.md"
+                "file": "冒险日记/2022-04-18.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/伪元素.md",
+                "file": "冒险日记/2022-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "86f81beb8be22309",
   "lastOpenFiles": [
-    "战斗记录/伪元素.md",
+    "冒险日记/2022-04-18.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/清除浮动.md",
+    "和平的生活/学习.md",
+    "和平的生活/梦想.md",
+    "和平的生活/理想型.md",
+    "和平的生活/成就事件.md",
     "战斗记录/隐藏元素.md",
-    "战斗记录/盒模型.md",
-    "战斗记录/短链接.md",
-    "战斗记录/状态码.md",
-    "战斗记录/HTML.md",
-    "战斗记录/SEO.md",
-    "战斗记录/cookie.md"
+    "战斗记录/position.md",
+    "战斗记录/postion.md",
+    "战斗记录/BFC.md"
   ]
 }

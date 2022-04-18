@@ -1,0 +1,16 @@
+- 四个属性
+	- property
+		- 过渡的[[CSS]]属性的名称
+	- duration
+		- 过渡时间
+		- 默认是0，单位是s
+	- timing-function
+		- 规定过渡效果的时间曲线，默认ease
+		- 属性
+			- ease
+			- ease-in
+			- ease-out
+			- ease-in-out
+	- delay
+		- 延迟时间
+		- 默认是0，单位是s
