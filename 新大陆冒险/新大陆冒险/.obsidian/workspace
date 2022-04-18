@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端大法师/Front end Knowledge.md",
+            "file": "战斗记录/伪元素.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/伪元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md"
+                "file": "战斗记录/伪元素.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/伪元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "86f81beb8be22309",
   "lastOpenFiles": [
+    "战斗记录/伪元素.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/优雅降级.md",
-    "战斗记录/渐进增强.md",
-    "战斗记录/不用border画出1px高的线.md",
-    "战斗记录/Page Visibility.md",
-    "战斗记录/浏览器内多个标签页之间的通信.md",
-    "战斗记录/postMessage.md",
-    "战斗记录/WebSocket.md",
-    "冒险日记/2022-04-17.md",
-    "冒险日记/2022-04-16.md"
+    "战斗记录/清除浮动.md",
+    "战斗记录/隐藏元素.md",
+    "战斗记录/盒模型.md",
+    "战斗记录/短链接.md",
+    "战斗记录/状态码.md",
+    "战斗记录/HTML.md",
+    "战斗记录/SEO.md",
+    "战斗记录/cookie.md"
   ]
 }

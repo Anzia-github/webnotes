@@ -1,2 +1,4 @@
--  The `<meta>` tag defines metadata about an HTML document.
+- The `<meta>` tag defines metadata about an HTML document.
 	- `<meta charset="UTF-8">`
+- 常用meta标签
+	- ![[Pasted image 20220417172954.png]]

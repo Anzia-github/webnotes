@@ -1,0 +1,20 @@
+- 目的
+	- 将一些小的数据，之间嵌入到网页中
+	- 不用再对外部文件载入
+	- 减少[[HTTP]]的请求次数
+	- 达到优化网页的效果
+- `<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAAGElEQVQIW2P4DwcMDAxAfBvMAhEQMYgcACEHG8ELxtbPAAAAAElFTkSuQmCC" />`
+	- data
+		- 取得数据的协定名称
+	- image/png
+		- 数据类型的名称
+	- base64
+		- 数据的编码方法
+- 支持的类型
+	- ![[Pasted image 20220418170003.png]]
+- 缺点
+	- 无法被重复利用
+	- 无法被独自缓存，包含的文档重新加载时，它也要重新加载
+	- 耗时，客户端要重新解码和现实，增加消耗
+	- 不支持数据压缩
+	- 不安全，不利于安全软件的过滤

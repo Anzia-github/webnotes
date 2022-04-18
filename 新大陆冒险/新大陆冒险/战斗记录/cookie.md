@@ -32,3 +32,9 @@
   - 新建一个[[cookie]]覆盖原来的
   - name、path、domain必须和原来相同
   - value、maxAge可以不相同
+- 如何在不同的端口间共享[[cookie]]
+	- 根据[[同源]]策略
+		- [[cookie]]是区分端口的
+	- 浏览器实现
+		- [[cookie]]区分域，不区分端口
+		- 同一个ip下的多个端口下的[[cookie]]是共享的
