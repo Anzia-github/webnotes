@@ -42,5 +42,29 @@
   ],
   "editor:toggle-blockquote": [],
   "templater-obsidian:insert-templater": [],
-  "obsidian-excalidraw-plugin:insert-link-to-element": []
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
 }
