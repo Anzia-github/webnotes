@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "冒险日记/2022-04-21.md",
+            "file": "冒险日记/2022-04-25.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "冒险日记/2022-04-21.md",
+                "file": "冒险日记/2022-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "冒险日记/2022-04-21.md"
+                "file": "冒险日记/2022-04-25.md"
               }
             }
           },
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "冒险日记/2022-04-21.md",
+                "file": "冒险日记/2022-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +129,15 @@
   },
   "active": "de18529785242bfe",
   "lastOpenFiles": [
+    "冒险日记/2022-04-25.md",
+    "冒险日记/2022-04-23.md",
+    "冒险日记/2022-04-22.md",
     "冒险日记/2022-04-21.md",
     "冒险日记/2022-04-20.md",
+    "冒险日记/2022-04-18.md",
+    "冒险日记/2022-04-19.md",
+    "战斗记录/Muse Todo 开源文档.md",
     "战斗回忆/实习报告.md",
-    "和平的生活/理想型.md",
-    "和平的生活/成就事件.md",
-    "战斗回忆/小程序思路.md",
-    "战斗回忆/插件的快捷键.md",
-    "SlidesReader/微信读书.md",
-    "战斗记录/认知觉醒.md",
-    "冒险日记/2022-04-15.md"
+    "和平的生活/理想型.md"
   ]
 }
