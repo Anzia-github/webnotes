@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端大法师/Front end Knowledge.md",
+            "file": "战斗记录/进程间通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "position",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/进程间通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md"
+                "file": "战斗记录/进程间通信.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/进程间通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d5dac18dbc4c7d03",
   "lastOpenFiles": [
+    "战斗记录/进程间通信.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/阻止冒泡与默认事件.md",
-    "战斗记录/浏览器内多个标签页之间的通信.md",
-    "战斗记录/String.md",
-    "战斗记录/Array.md",
-    "战斗记录/async.md",
-    "冒险日记/2022-04-26.md",
-    "冒险日记/2022-04-25.md",
-    "战斗记录/隐藏元素.md",
-    "战斗记录/white-space.md"
+    "战斗记录/Math.md",
+    "战斗记录/内存泄漏.md",
+    "战斗记录/继承的方式.md",
+    "战斗记录/微任务.md",
+    "战斗记录/Event Loop.md",
+    "战斗记录/宏任务.md",
+    "战斗记录/浏览器架构.md",
+    "战斗记录/原生JS实现的功能.md"
   ]
 }

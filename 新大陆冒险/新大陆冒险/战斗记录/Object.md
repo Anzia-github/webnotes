@@ -1,0 +1,7 @@
+- hasOwnProperty
+- isPrototypeof
+- propertyIsEnumerable
+- toLocaleString
+- toString
+- valueOf
+- 

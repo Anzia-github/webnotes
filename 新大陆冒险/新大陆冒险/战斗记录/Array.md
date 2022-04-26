@@ -11,3 +11,4 @@
 - isArray
 - concat
 - splice
+- flat

@@ -1,0 +1,5 @@
+- alert
+- confirm
+- prompt
+- open
+- close

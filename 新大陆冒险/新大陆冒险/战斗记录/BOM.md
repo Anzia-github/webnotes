@@ -1,0 +1,6 @@
+- [[window]]
+- [[document]]
+- [[loaction]]
+- [[navigator]]
+- [[screen]]
+- [[history]]
