@@ -1,0 +1,16 @@
+- charAt
+- charCodeAt
+- concat
+- formCharCode
+- indexOf
+- lastIndexOf
+- match
+- replace
+- search
+- slice
+- split
+- substr
+- substring
+- toLowerCase
+- toUppereCase
+- valueOf

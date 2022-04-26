@@ -1,0 +1,8 @@
+- translate()是[[transform]]的一个值
+- 改变[[transform]]或[[opacity]]不会触发[[回流]]或[[重绘]]
+- 而改变绝对定位会触发重新布局
+- [[transform]]使浏览器为元素创建一个GPU图层
+- 改变绝对定位会使用到CPU
+- 因此translate()更高效，可以缩短平滑动画的绘制时间
+- 当使用translate()时，元素仍然占据其原始空间（有点像position: relative）
+- 这与改变绝对定位不同

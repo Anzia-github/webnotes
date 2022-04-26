@@ -1,0 +1,40 @@
+- 主要用于一维布局，像手机
+- [[Flex]]容器
+	- 存在两条轴
+		- 横轴
+		- 纵轴
+	- 每个单元称为flex item
+- 属性
+	- flex-direction
+	- flex-wrap
+	- flex-flow
+	- justify-content
+	- align-items
+	- align-content
+- 注意
+	- 当设置flex布局之后
+	- 子元素的float、clear、vertical-align的属性将会失效
+- [[flex: 1]]
+	- 自动填充满剩余空间
+	- 组成
+		- [[flex-grow]]
+		- [[flex-shrink]]
+		- [[flex-basis]]
+	- 属性
+		- initial
+			- 0 1 auto
+			- 在有剩余空间的情况下不会有任何变化
+		- none
+			- 0 0 auto
+			- 在任何情况下都不会发生伸缩
+		- auto
+			- 1 1 auto
+			- 会根据主轴自动伸缩以占用所有剩余空间
+		- 一个非负数字
+			- 非负数字 1 0%
+		- 一个长度或百分比
+			- 1 1 百分比
+		- 两个非负数字
+			- 非负数字1 非负数字2 0%
+		- 一个非负数字，一个长度或百分比
+			- 非负数字 1 百分比

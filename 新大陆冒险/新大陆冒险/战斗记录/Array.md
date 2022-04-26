@@ -1,0 +1,13 @@
+- map
+- forEach
+- reduce
+- filter
+- some
+- every
+- push
+- pop
+- shift
+- unshift
+- isArray
+- concat
+- splice

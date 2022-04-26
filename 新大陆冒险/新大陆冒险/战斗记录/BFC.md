@@ -2,8 +2,11 @@
 	- 格式化上下文
 	- 一个独立的渲染区域
 - 条件
-	- 浮动元素
+	- float
 		- float除none
+			- left
+			- right
+			- inherit
 	- [[position]]
 		- absolute
 		- fixed
@@ -11,6 +14,7 @@
 		- inline-block
 		- table-cell
 		- table-caption
+		- flex
 	- [[overflow]]
 		- hidden
 		- auto
