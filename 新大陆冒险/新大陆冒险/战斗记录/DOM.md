@@ -1,0 +1,16 @@
+- 创建
+	- createDocumentFragment
+	- createElement
+	- createTextNode
+- 添加
+	- appendChild
+- 移除
+	- removeChild
+- 替换
+	- replaceChild
+- 插入
+	- insertBefore
+- 查找
+	- getElementByTagName
+	- getElementByName
+	- getElementById
