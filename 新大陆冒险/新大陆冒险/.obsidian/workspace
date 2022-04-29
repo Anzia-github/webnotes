@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端大法师/Front end Knowledge.md",
+            "file": "和平的生活/学习.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "711949b66f9ab6b4",
+        "id": "51a2d67ca679af93",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/call.md",
+            "file": "战斗记录/String.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/call.md",
+                "file": "和平的生活/学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/call.md"
+                "file": "和平的生活/学习.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/call.md",
+                "file": "和平的生活/学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "711949b66f9ab6b4",
+  "active": "d5dac18dbc4c7d03",
   "lastOpenFiles": [
-    "战斗记录/call.md",
+    "和平的生活/学习.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/数据类型.md",
-    "战斗记录/发布订阅模式.md",
-    "战斗记录/内存泄漏.md",
-    "战斗记录/垃圾回收.md",
-    "战斗记录/面向对象.md",
-    "和平的生活/理想型.md",
-    "战斗记录/判断数组.md",
-    "战斗记录/判断JS变量.md"
+    "战斗记录/String.md",
+    "战斗记录/Array.md",
+    "战斗记录/断点续传.md",
+    "战斗记录/构造函数.md",
+    "战斗记录/继承的方式.md",
+    "战斗记录/bind.md",
+    "战斗记录/作用域.md",
+    "战斗记录/点透.md"
   ]
 }

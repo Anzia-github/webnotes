@@ -1,14 +1,88 @@
 - map
+	- 含义
+		- 将数组中的每个元素调用一个提供的函数
+		- 结果作为一个==新的数组返回==
+		- 并没有改变原来的数组
+	- 代码
+		- `let newArr = arr.map(x => x * 2);`
+		- `let newArr = a.map(x => {return x*3})`
 - forEach
+	- 含义
+		- 将数组中的每个元素传进提供的函数
+		- 没有返回值
+		- ==直接改变原数组==
+	- 代码
+		- `arr.forEach(x => x * 2);`
 - reduce
+	- 含义
+		- 所有元素调用返回函数
+		- 返回值为最后结果
+		- 传入的值必须是函数类型
+	- 代码
+		- `array.reduce(function(total, currentValue, currentIndex, arr), initialValue)`
 - filter
+	- 含义
+		- 将所有元素进行判断
+		- 将满足条件的元素作为一个==新的数组返回==
+	- 代码
+		- `arr.filter(x => x > 3)`
+		- `arr.filter(x => {return x > 3})`
 - some
+	- 含义
+		- 将所有元素进行判断返回一个布尔值
+		- 存在满足条件，则返回true
+		- 都不满足返回false
+	- 代码
+		- `arr.some(x => x > 3)`
 - every
+	- 含义
+		- 将==所有元素==进行判断返回一个布尔值
+		- 如果所有元素都满足判断条件，则返回true，否则返回false
+	- 代码
+		- `arr.every(x => x > 3)`
 - push
+	- 含义
+		- 在数组的后面添加新元素
+	- 代码
+		- `arr.push('ABC')`
 - pop
+	- 含义
+		- 在数组后面删除最后一个元素
+	- 代码
+		- `arr.pop()`
 - shift
+	- 含义
+		- 删除数组第一个元素，并返回数组
+	- 代码
+		- `arr.shift()`
 - unshift
+	- 含义
+		- 将一个或多个元素添加到数组的开头
+	- 代码
+		- `arr.unshift(1, 2)`
 - isArray
+	- 含义
+		- 判断一个对象是不是数组
+		- 返回布尔值
 - concat
+	- 含义
+		- 可以将多个数组拼接成一个数组
+	- 代码
+		- `arr1.concat(arr2)`
+- toString
+	- 含义
+		- 将数组转化为字符串
+	- 代码
+		- `arr.toString()`
+- join
+	- 含义
+		- 将数组转化为字符串
+	- 代码
+		- `arr.join(',')`
 - splice
+	- 含义
+		- 可以实现增删改
+		- ==返回一个新数组==
+	- 代码
+		- `arr.splice(开始位置, 删除的个数, 新增元素)`
 - flat
