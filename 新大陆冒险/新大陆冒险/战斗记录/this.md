@@ -1,0 +1,25 @@
+- 含义
+	- 指向调用上下文
+- 指向问题
+	- 全局环境、普通函数（非严格模式）指向window
+	- 普通函数（严格模式）指向undefined
+	- 函数作为对象方法及[[原型链]]指向的就是上一级对象
+		- ![[Pasted image 20220429115431.png]]
+		- ![[Pasted image 20220429120213.png]]
+	- [[构造函数]]指向构造的对象
+	- [[DOM]]事件中指向触发事件的元素
+		- ![[Pasted image 20220429121606.png]]
+	- [[setTimeout]]和[[setInterval]]的[[this]]指向window
+		- ![[Pasted image 20220429121431.png]]
+	- 箭头函数
+		- 全局环境中，箭头函数被设置为全局对象
+			- ![[Pasted image 20220429130839.png]]
+		- [[this]]捕获上下文
+			- 箭头函数没有自己的 this
+			- 而是使用箭头函数所在的作用域的 this
+			- ![[Pasted image 20220429130952.png]]
+				- 在 setTimeout 中的 this 指向了构造函数新生成的对象
+				- 而普通函数指向了全局 window 对象
+		- 箭头函数作为对象的方法使用，指向全局 window 对象
+			- ![[Pasted image 20220429131135.png]]
+		- 箭头函数中，[[call]]、[[apply]]、[[bind]]方法无效

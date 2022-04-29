@@ -42,39 +42,39 @@
 	- 含义
 		- 基于正则表达式搜索字符串，并返回第一个匹配的位置
 	- 代码
-		- `str.`
+		- `str.search(regex)`
 - slice
 	- 含义
 		- 返回字符索引在 start 和 end（不含）之间的子串
 	- 代码
-		- 
+		- `str.slice(start, end)`
 - split
 	- 含义
 		- 将字符串分割为字符数组，limit 为从头开始执行分割的最大数量
 	- 代码
-		- 
+		- `str.split(sep, limit)`
 - substr
 	- 含义
 		- 从字符索引 start 的位置开始，返回长度为 length 的子串
 	- 代码
-		- 
+		- `str.substr(start, length)`
 - substring
 	- 含义
 		- 返回字符索引在 from 和 to（不含）之间的子串
 	- 代码
-		- 
+		- `str.substring(from, to)`
 - toLowerCase
 	- 含义
 		- 将字符串转换为小写
 	- 代码
-		- 
-- toUppereCase
+		- `str.toLowerCase()`
+- toUpperCase
 	- 含义
 		- 将字符串转换为大写
 	- 代码
-		- 
+		- `str.toUpperCase()`
 - valueOf
 	- 含义
 		- 返回原始字符串值
 	- 代码
-		- 
+		- `str.valueOf()`

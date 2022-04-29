@@ -86,3 +86,9 @@
 	- 代码
 		- `arr.splice(开始位置, 删除的个数, 新增元素)`
 - flat
+- from
+	- 含义
+		- 对一个类似数组或可迭代对象创建一个新的，浅拷贝的数组实例
+	- 代码
+		- `let arr = Array.from('foo') //Array ["f", "o", "o"]`
+		- `let arr = Array.from([1, 2, 3], x => x + x) //Array [2, 4, 6]`
