@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "微信读书/刻意练习.md",
+            "file": "前端大法师/Front end Knowledge.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "897c42ab73727302",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端大法师/Front end Knowledge.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微信读书/刻意练习.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微信读书/刻意练习.md"
+                "file": "前端大法师/Front end Knowledge.md"
               }
             }
           },
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微信读书/刻意练习.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +141,15 @@
   },
   "active": "d5dac18dbc4c7d03",
   "lastOpenFiles": [
-    "微信读书/刻意练习.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/原型.md",
-    "战斗记录/求数组的最大值.md",
-    "战斗记录/去除字符串里面重复的数字.md",
-    "战斗记录/去除数组重复成员的方法.md",
-    "战斗记录/Array.md",
     "战斗记录/call.md",
     "战斗记录/apply.md",
-    "战斗记录/this.md"
+    "战斗记录/bind.md",
+    "战斗记录/深拷贝.md",
+    "战斗记录/浅拷贝.md",
+    "战斗记录/防抖.md",
+    "战斗记录/节流.md",
+    "战斗记录/隐式转化为false.md",
+    "微信读书/刻意练习.md"
   ]
 }

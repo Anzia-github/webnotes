@@ -1,0 +1,6 @@
+- [[undefined]]
+- null
+- false
+- NaN
+- 0
+- 空字符串

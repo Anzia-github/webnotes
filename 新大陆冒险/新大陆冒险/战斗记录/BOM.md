@@ -1,6 +1,12 @@
 - [[window]]
+	- [[JS]]的最顶层对象
 - [[document]]
+	- 文档对象
 - [[loaction]]
+	- 浏览器当前URL信息
 - [[navigator]]
+	- 浏览器本身信息
 - [[screen]]
+	- 客户端屏幕信息
 - [[history]]
+	- 浏览器访问历史信息
