@@ -1,0 +1,9 @@
+- 构成
+	- [[Model]]
+	- [[View]]
+	- [[Presenter]]
+		- 解决[[MVC]]中[[Model]]和[[View]]耦合，项目逻辑复杂导致代码混乱的问题
+		- [[MVC]]中的[[Controller]]只知道[[Model]]的接口，因此没有办法控制[[View]]层的更新
+		- 在[[MVP]]模式中，[[View]]层的接口暴露给了[[Presenter]]
+		- 可以在[[Presenter]]中将[[Model]]的变化和[[View]]的变化绑定在一起
+		- 以此来实现[[View]]和[[Model]]的同步更新
