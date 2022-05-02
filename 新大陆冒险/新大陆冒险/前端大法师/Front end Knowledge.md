@@ -69,6 +69,7 @@
 			- [[DOM]]
 			- [[BOM]]
 			- I/O
+			- [[Ajax]]
 		- [[ES6]]
 		- [[事件冒泡]]
 		- [[事件捕获]]
@@ -131,7 +132,6 @@
 		- [[宏任务]]
 		- [[创建对象的方式]]
 		- [[继承的方式]]
-		- [[Ajax]]
 		- [[解决跨域问题]]
 		- [[节流]]
 		- [[防抖]]
@@ -151,13 +151,14 @@
 		- [[求数组的最大值]]
 		- [[原型属性]]
 		- [[原型对象]]
+		- [[输入URL到页面加载显示的过程]]
 	- [[Vue]]
 	- Mini Program
 	- [[React]]
 	- [[Webpack]]
-	- Computer network
+	- [[Computer Network]]
 	- Data structure
-	- Algorithm
+	- [[Algorithm]]
 	- [[Node.js]]
 	- [[正则表达式]]
 	- [[设计模式]]

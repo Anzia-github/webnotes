@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Ajax.md",
+            "file": "前端大法师/Front end Knowledge.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Ajax.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Ajax.md"
+                "file": "前端大法师/Front end Knowledge.md"
               }
             }
           },
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Ajax.md",
+                "file": "前端大法师/Front end Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +128,15 @@
   },
   "active": "4f2d020e10330eb8",
   "lastOpenFiles": [
-    "战斗记录/Ajax.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/Node.js.md",
-    "战斗记录/事件循环.md",
-    "战斗记录/Nodejs.md",
-    "战斗记录/ES6.md",
-    "战斗记录/进程间通信.md",
-    "战斗记录/观察者模式.md",
-    "战斗记录/适配器模式.md",
-    "战斗记录/发布订阅模式.md"
+    "战斗记录/Algorithm.md",
+    "战斗记录/Ajax.md",
+    "战斗记录/Computer Network.md",
+    "战斗记录/状态码.md",
+    "战斗记录/输入URL到页面加载显示的过程.md",
+    "战斗记录/XSS攻击.md",
+    "战斗记录/post.md",
+    "战斗记录/get.md",
+    "战斗记录/Node.js.md"
   ]
 }
