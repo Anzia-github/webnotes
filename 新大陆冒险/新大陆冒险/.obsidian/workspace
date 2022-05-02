@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/ES6.md",
+            "file": "战斗记录/Ajax.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/ES6.md",
+                "file": "战斗记录/Ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/ES6.md"
+                "file": "战斗记录/Ajax.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/ES6.md",
+                "file": "战斗记录/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "4f2d020e10330eb8",
   "lastOpenFiles": [
-    "战斗记录/ES6.md",
+    "战斗记录/Ajax.md",
     "前端大法师/Front end Knowledge.md",
+    "战斗记录/Node.js.md",
+    "战斗记录/事件循环.md",
+    "战斗记录/Nodejs.md",
+    "战斗记录/ES6.md",
     "战斗记录/进程间通信.md",
     "战斗记录/观察者模式.md",
     "战斗记录/适配器模式.md",
-    "战斗记录/发布订阅模式.md",
-    "战斗记录/中介者模式.md",
-    "战斗记录/代理模式.md",
-    "战斗记录/事件代理.md",
-    "战斗记录/策略模式.md"
+    "战斗记录/发布订阅模式.md"
   ]
 }
