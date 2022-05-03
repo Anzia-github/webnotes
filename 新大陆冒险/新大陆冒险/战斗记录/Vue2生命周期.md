@@ -1,0 +1,18 @@
+- [[beforeCreate]]
+	- 初始化实例后
+	- 数据观测和事件配置之前调用
+- [[created]]
+	- 实例创建完成后调用
+- [[beforeMount]]
+	- 挂载开始前调用
+- [[mounted]]
+	- el被新建vm.$el替换并挂载到实例上之后调用
+- [[beforeDestroy]]
+	- 实例被销毁前调用
+- [[destroyed]]
+	- 实例销毁后调用
+- [[beforeUpdate]]
+	- 数据更新时调用
+- [[updated]]
+	- 数据更改导致的[[DOM]]重新渲染后调用
+![[Pasted image 20220502194407.png]]

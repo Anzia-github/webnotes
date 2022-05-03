@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端大法师/Front end Knowledge.md",
+            "file": "战斗记录/Proxy.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "同源",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md"
+                "file": "战斗记录/Proxy.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端大法师/Front end Knowledge.md",
+                "file": "战斗记录/Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "4f2d020e10330eb8",
   "lastOpenFiles": [
+    "战斗记录/Proxy.md",
+    "战斗记录/双向数据绑定.md",
+    "战斗记录/Vue.md",
+    "战斗记录/Vue2生命周期.md",
+    "战斗记录/Vue3生命周期.md",
+    "战斗记录/watch.md",
+    "战斗记录/computed.md",
+    "战斗记录/Object.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/Algorithm.md",
-    "战斗记录/Ajax.md",
-    "战斗记录/Computer Network.md",
-    "战斗记录/状态码.md",
-    "战斗记录/输入URL到页面加载显示的过程.md",
-    "战斗记录/XSS攻击.md",
-    "战斗记录/post.md",
-    "战斗记录/get.md",
-    "战斗记录/Node.js.md"
+    "战斗记录/CSS.md"
   ]
 }

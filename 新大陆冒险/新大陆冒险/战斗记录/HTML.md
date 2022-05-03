@@ -1,6 +1,41 @@
-- 常见兼容性性问题
-![[Pasted image 20220414105131.png]]
-- 新特性
-![[Pasted image 20220414105201.png]]
-- 全局属性
-![[Pasted image 20220414105309.png]]
+- [[常见兼容性性问题]]
+- [[HTML5新特性]]
+- [[全局属性]]
+- [[HTML]]中[[语义化]]的理解
+- [[label]]的作用
+- [[ iframe]]框架的优缺点
+- title与h1、b、string、i、em的区别
+- [[SEO]]的TDK
+- Doctype的作用
+- [[src]]和[[href]]的区别
+- 前端页面有哪三部分构成
+- [[HTML]]常见的兼容性问题
+- 提高[[SEO]]的方法
+- [[HTML]]5的新特性
+- [[HTML]]全局属性
+- [[Canvas]]和[[SVG]]的区别
+- [[meta]] [[viewport]]原理
+- [[script]]中的[[async]]和[[defer]]属性
+- [[inline]]内联元素
+- [[block]]块级元素
+- [[空元素]]
+- [[link]]和[[@import]]的区别
+- 渲染页面时常见哪些不良现象
+- [[回流]]
+- [[重绘]]
+- [[DOMContentLoaded]]
+- [[Load]]
+- [[cookie]]
+- [[localStorage]]
+- [[sessionStorage]]
+- [[浏览器内多个标签页之间的通信]]
+- [[Page Visibility]] API
+- [[渐进增强]]
+- [[优雅降级]]
+- [[attribute]]和[[property]]的区别
+- 浏览器架构
+- [[性能优化]]
+- [[Data URI scheme]]
+- [[http URI scheme]]
+- [[短链接]]
+- [[HTML]]5 [[拖拽]]事件的顺序
