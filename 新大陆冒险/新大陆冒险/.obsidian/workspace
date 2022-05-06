@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Proxy.md",
+            "file": "和平的生活/简历.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -70,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Proxy.md",
+                "file": "和平的生活/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Proxy.md"
+                "file": "和平的生活/简历.md"
               }
             }
           },
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Proxy.md",
+                "file": "和平的生活/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
   },
   "active": "4f2d020e10330eb8",
   "lastOpenFiles": [
+    "和平的生活/简历.md",
     "战斗记录/Proxy.md",
     "战斗记录/双向数据绑定.md",
     "战斗记录/Vue.md",
@@ -136,7 +138,6 @@
     "战斗记录/watch.md",
     "战斗记录/computed.md",
     "战斗记录/Object.md",
-    "前端大法师/Front end Knowledge.md",
-    "战斗记录/CSS.md"
+    "前端大法师/Front end Knowledge.md"
   ]
 }

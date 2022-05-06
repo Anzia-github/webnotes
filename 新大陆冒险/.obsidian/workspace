@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "8760d28188119bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4c57bc830b6cc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "新大陆冒险/前端大法师/Front end Knowledge.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8831435ffe9d665b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c183444a458b9345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc85f28f708693f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2af579b9086fda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "973f40d818fb0ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d1d6ccfc860b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3685cdaf57128f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "新大陆冒险/前端大法师/Front end Knowledge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be4c57bc830b6cc8",
+  "lastOpenFiles": [
+    "新大陆冒险/前端大法师/Front end Knowledge.md"
+  ]
+}
