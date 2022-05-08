@@ -75,5 +75,13 @@
       ],
       "key": "="
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
