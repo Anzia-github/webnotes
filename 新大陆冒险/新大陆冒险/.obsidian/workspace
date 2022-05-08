@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/快速排序.md",
+            "file": "战斗记录/基数排序.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -70,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/快速排序.md",
+                "file": "战斗记录/基数排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/快速排序.md"
+                "file": "战斗记录/基数排序.md"
               }
             }
           },
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/快速排序.md",
+                "file": "战斗记录/基数排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +129,15 @@
   },
   "active": "4f2d020e10330eb8",
   "lastOpenFiles": [
-    "战斗记录/快速排序.md",
+    "战斗记录/基数排序.md",
     "战斗记录/Algorithm.md",
+    "战斗记录/桶排序.md",
+    "战斗记录/计数排序.md",
+    "战斗记录/堆排序.md",
+    "战斗记录/快速排序.md",
+    "战斗记录/堆积.md",
     "战斗记录/归并排序.md",
     "战斗记录/希尔排序.md",
-    "战斗记录/插入排序.md",
-    "战斗记录/选择排序.md",
-    "战斗记录/冒泡排序.md",
-    "前端大法师/Front end Knowledge.md",
-    "冒险日记/2022-05-08.md",
-    "战斗记录/Flex.md"
+    "战斗记录/插入排序.md"
   ]
 }
