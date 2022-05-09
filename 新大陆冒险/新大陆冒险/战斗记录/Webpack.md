@@ -2,7 +2,7 @@
 	- `npm install webpack webpack-cli --save-dev`
 - 基本配置
 	- src/index.js
-	- webpack.config.js
+	- [[webpack.config.js]]
 		```JS
 		const path = require('path');
 		
@@ -15,7 +15,7 @@
 		  }
 		};
 		```
-	- package.json
+	- [[package.json]]
 		```JS
 		script: {
 			'build': 'webpack'
@@ -27,4 +27,6 @@
 	- [[output]]
 	- [[loader]]
 	- [[plugins]]
-	
+		- [[html-webpack-plugin]]
+- [[webpack-dev-server]]
+- [[babel]]

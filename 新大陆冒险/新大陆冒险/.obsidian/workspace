@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2d020e10330eb8",
+        "id": "647b03006abc5ac8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "战斗记录/__proto__.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +72,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "战斗记录/__proto__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -77,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "战斗记录/__proto__.md"
+              }
             }
           },
           {
@@ -94,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "战斗记录/__proto__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f2d020e10330eb8",
+  "active": "647b03006abc5ac8",
   "lastOpenFiles": [
-    "战斗记录/Webpack.md",
-    "战斗记录/plugins.md",
-    "战斗记录/Array.md",
+    "战斗记录/__proto__.md",
+    "战斗记录/JS.md",
     "前端大法师/Front end Knowledge.md",
-    "冒险日记/2022-05-08.md",
-    "战斗记录/WebSocket.md",
-    "战斗记录/双飞翼布局.md",
-    "战斗记录/label.md",
-    "战斗记录/MMVM.md",
-    "冒险日记/2022-05-05.md"
+    "战斗记录/Vue.md",
+    "战斗记录/响应式原理.md",
+    "战斗记录/双向数据绑定.md",
+    "战斗记录/Vue2生命周期.md",
+    "战斗记录/Webpack.md",
+    "战斗记录/babel.md",
+    "战斗记录/html-webpack-plugin.md"
   ]
 }
