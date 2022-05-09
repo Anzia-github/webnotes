@@ -1,8 +1,10 @@
 - [[beforeCreate]]
 	- 初始化实例后
 	- 数据观测和事件配置之前调用
+	- 挂载元素el和数据对象data都是[[undefined]]
 - [[created]]
 	- 实例创建完成后调用
+	- 存在data
 - [[beforeMount]]
 	- 挂载开始前调用
 - [[mounted]]

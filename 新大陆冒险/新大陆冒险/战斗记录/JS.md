@@ -85,7 +85,7 @@
 - [[XSS攻击]]
 - [[CSRF攻击]]
 - [[CSP]]
-- [[MMVM]]
+- [[MVVM]]
 - [[MVC]]
 - [[MVP]]
 - [[Promise]]

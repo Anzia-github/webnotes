@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/__proto__.md",
+            "file": "战斗记录/Vue2生命周期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/__proto__.md",
+                "file": "战斗记录/Vue2生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/__proto__.md"
+                "file": "战斗记录/Vue2生命周期.md"
               }
             }
           },
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/__proto__.md",
+                "file": "战斗记录/Vue2生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +129,15 @@
   },
   "active": "647b03006abc5ac8",
   "lastOpenFiles": [
-    "战斗记录/__proto__.md",
-    "战斗记录/JS.md",
-    "前端大法师/Front end Knowledge.md",
-    "战斗记录/Vue.md",
-    "战斗记录/响应式原理.md",
-    "战斗记录/双向数据绑定.md",
     "战斗记录/Vue2生命周期.md",
-    "战斗记录/Webpack.md",
-    "战斗记录/babel.md",
-    "战斗记录/html-webpack-plugin.md"
+    "战斗记录/响应式原理.md",
+    "战斗记录/Vue.md",
+    "战斗记录/双向数据绑定.md",
+    "战斗记录/自定义组件.md",
+    "战斗记录/MVC.md",
+    "战斗记录/Promise.md",
+    "战斗记录/JS.md",
+    "战斗记录/MVVM.md",
+    "战斗记录/发布订阅模式.md"
   ]
 }
