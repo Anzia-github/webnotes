@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "647b03006abc5ac8",
+        "id": "cdc72b866e0154df",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Vue2生命周期.md",
+            "file": "战斗记录/内存泄漏.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Vue2生命周期.md",
+                "file": "战斗记录/内存泄漏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Vue2生命周期.md"
+                "file": "战斗记录/内存泄漏.md"
               }
             }
           },
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Vue2生命周期.md",
+                "file": "战斗记录/内存泄漏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "647b03006abc5ac8",
+  "active": "cdc72b866e0154df",
   "lastOpenFiles": [
+    "战斗记录/内存泄漏.md",
     "战斗记录/Vue2生命周期.md",
-    "战斗记录/响应式原理.md",
-    "战斗记录/Vue.md",
-    "战斗记录/双向数据绑定.md",
-    "战斗记录/自定义组件.md",
-    "战斗记录/MVC.md",
-    "战斗记录/Promise.md",
-    "战斗记录/JS.md",
-    "战斗记录/MVVM.md",
-    "战斗记录/发布订阅模式.md"
+    "战斗记录/同步任务.md",
+    "战斗记录/for of.md",
+    "战斗记录/优化CSS.md",
+    "战斗记录/递归.md",
+    "战斗考核/测试.md",
+    "战斗记录/重绘.md",
+    "战斗记录/href.md",
+    "战斗记录/Array.md"
   ]
 }
