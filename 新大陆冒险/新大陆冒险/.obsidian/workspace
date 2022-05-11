@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Virtual DOM.md",
+            "file": "战斗记录/Vue核心部分.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Virtual DOM.md",
+                "file": "战斗记录/Vue核心部分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Virtual DOM.md"
+                "file": "战斗记录/Vue核心部分.md"
               }
             }
           },
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Virtual DOM.md",
+                "file": "战斗记录/Vue核心部分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +129,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/Virtual DOM.md",
+    "战斗记录/Vue核心部分.md",
     "战斗记录/Vue.md",
-    "战斗记录/Vue.set.md",
-    "战斗记录/依赖收集.md",
-    "战斗记录/dep.md",
-    "战斗记录/监测数组.md",
-    "战斗记录/模板编译原理.md",
-    "战斗记录/Node.js.md",
-    "战斗记录/grunt.md",
-    "战斗记录/watch.md"
+    "战斗记录/patch.md",
+    "战斗记录/组件渲染流程.md",
+    "战斗记录/组件渲染流程.md",
+    "战斗记录/插入排序.md",
+    "战斗记录/排序算法.md",
+    "战斗记录/选择排序.md",
+    "战斗记录/冒泡排序.md",
+    "战斗记录/JS请求的缓存处理.md"
   ]
 }

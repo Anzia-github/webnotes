@@ -1,0 +1,19 @@
+- 参数[[Object.defineProperty]](obj, prop, descriptor)
+	- obj
+		- 目标对象
+	- prop
+		- 需要定义的属性或方法的名称
+	- descriptor
+		- 目标属性所拥有的特性
+			- value
+				- 属性的值
+			- writable
+				- 如果为false，属性的值就不能被重写
+			- set
+				- 被赋值调用此方法
+			- get
+				- 被访问调用此方法
+			- configurable
+				- 如果为false，则任何尝试删除目标属性或修改属性的行为将被无效化
+			- enumerable
+				- 是否能在[[for in]]循环种遍历处理或在[[Object]].keys种列举出来
