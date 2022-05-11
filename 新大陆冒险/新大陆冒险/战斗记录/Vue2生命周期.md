@@ -4,9 +4,13 @@
 	- 挂载元素el和数据对象data都是[[undefined]]
 - [[created]]
 	- 实例创建完成后调用
-	- 存在data
+	- 数据观测
+	- 属性和方法的运算
+	- watch/event时间回调
+	- $el尚未生成
 - [[beforeMount]]
 	- 挂载开始前调用
+	- render尚未调用
 - [[mounted]]
 	- el被新建vm.$el替换并挂载到实例上之后调用
 - [[beforeDestroy]]
