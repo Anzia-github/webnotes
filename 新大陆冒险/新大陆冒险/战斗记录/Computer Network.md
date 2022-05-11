@@ -6,4 +6,5 @@
 	- [[put]]
 	- [[trace]]
 	- [[option]]
+	- [[connect]]
 - [[状态码]]

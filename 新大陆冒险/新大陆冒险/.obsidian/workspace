@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/内存泄漏.md",
+            "file": "战斗记录/Vue.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/内存泄漏.md",
+                "file": "战斗记录/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/内存泄漏.md"
+                "file": "战斗记录/Vue.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/内存泄漏.md",
+                "file": "战斗记录/Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/内存泄漏.md",
-    "战斗记录/Vue2生命周期.md",
-    "战斗记录/同步任务.md",
-    "战斗记录/for of.md",
-    "战斗记录/优化CSS.md",
-    "战斗记录/递归.md",
-    "战斗考核/测试.md",
-    "战斗记录/重绘.md",
-    "战斗记录/href.md",
-    "战斗记录/Array.md"
+    "战斗记录/Vue.md",
+    "战斗记录/依赖收集.md",
+    "战斗记录/Array.md",
+    "战斗记录/监测数组.md",
+    "战斗记录/响应式原理.md",
+    "战斗记录/bind.md",
+    "战斗记录/JS请求的缓存处理.md",
+    "战斗记录/面向对象.md",
+    "战斗记录/超链接访问过后hover样式就不出现的问题.md",
+    "战斗记录/事件绑定的方式.md"
   ]
 }
