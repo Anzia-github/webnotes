@@ -1,4 +1,4 @@
-- 参数[[Object.defineProperty]](obj, prop, descriptor)
+- 参数[[Object.defineProperty()]](obj, prop, descriptor)
 	- obj
 		- 目标对象
 	- prop

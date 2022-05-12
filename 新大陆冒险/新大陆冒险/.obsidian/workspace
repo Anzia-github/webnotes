@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/组件通信方式.md",
+            "file": "战斗记录/Record.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/组件通信方式.md",
+                "file": "战斗记录/Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/组件通信方式.md"
+                "file": "战斗记录/Record.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/组件通信方式.md",
+                "file": "战斗记录/Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/组件通信方式.md",
-    "战斗记录/vuex.md",
-    "战斗记录/深拷贝.md",
-    "战斗记录/String.md",
-    "战斗记录/Vue.md",
-    "微信读书/成就上瘾.md",
-    "战斗记录/快速排序.md",
-    "战斗记录/排序算法.md",
-    "战斗记录/Algorithm.md",
-    "战斗记录/基数排序.md"
+    "战斗记录/Record.md",
+    "冒险日记/2022-04-22.md",
+    "冒险日记/2022-05-11.md",
+    "冒险日记/2022-05-08.md",
+    "冒险日记/2022-05-10.md",
+    "冒险日记/2022-05-09.md",
+    "冒险日记/2022-05-06.md",
+    "冒险日记/2022-05-05.md",
+    "冒险日记/2022-05-01.md",
+    "冒险日记/2022-04-27.md"
   ]
 }

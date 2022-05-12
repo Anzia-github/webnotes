@@ -7,6 +7,7 @@
 	- 跨平台性
 		- 仅需要浏览器的支持
 -  API
+	- [[Object]]
 	- [[Array]]
 	- [[String]]
 	- [[Math]]

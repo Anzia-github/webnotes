@@ -3,4 +3,4 @@
 	- 使用URL传递参数
 	- 发送信息的数量有限制
 - [[Vue]]
-	- 是[[Object.defineProperty]]中的一个获取值的回调
+	- 是[[Object.defineProperty()]]中的一个获取值的回调
