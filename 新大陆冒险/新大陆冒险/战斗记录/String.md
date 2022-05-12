@@ -1,79 +1,81 @@
-- charAt
+- [[charAt]]
 	- 含义
 		- 返回指定索引处的字符串
 	- 代码
 		- `str.charAt(index)`
-- charCodeAt
+- [[charCodeAt]]
 	- 含义
 		- 返回指定索引处的字符的 Unicode 的值
 	- 代码
 		- `str.charCodeAt(index)`
-- concat
+- [[concat]]
 	- 含义
 		- 连接多个字符串，返回连接后的字符串的副本
 	- 代码
 		- `str.concat(str1, str2, ... )`
-- formCharCode
+- [[formCharCode]]
 	- 含义
 		- 将 Unicode 值转换成实际的字符串
 	- 代码
 		- `String.fromCharCode(index)`
-- indexOf
+- [[indexOf]]
 	- 含义
 		- 返回 str 在父串中第一次出现的位置，若没有则返回-1
 	- 代码
 		- `str.indexOf('c')`
-- lastIndexOf
+- [[lastIndexOf]]
 	- 含义
 		- 返回 str 在父串中最后一次出现的位置，若没有则返回-1
 	- 代码
 		- `str.lastIndexOf('c')`
-- match
+- [[match]]
 	- 含义
 		- 搜索字符串，并返回正则表达式的所有匹配
 	- 代码
 		- `str.match(regex)`
-- replace
+- [[replace]]
 	- 含义
 		- str1 也可以为正则表达式，用 str2 替换 str1
 	- 代码
 		- `str.replace(str, str1)`
-- search
+- [[search]]
 	- 含义
 		- 基于正则表达式搜索字符串，并返回第一个匹配的位置
 	- 代码
 		- `str.search(regex)`
-- slice
+- [[slice]]
 	- 含义
 		- 返回字符索引在 start 和 end（不含）之间的子串
 	- 代码
 		- `str.slice(start, end)`
-- split
+- [[split]]
 	- 含义
 		- 将字符串分割为字符数组，limit 为从头开始执行分割的最大数量
 	- 代码
 		- `str.split(sep, limit)`
-- substr
+- [[substr]]
 	- 含义
 		- 从字符索引 start 的位置开始，返回长度为 length 的子串
 	- 代码
 		- `str.substr(start, length)`
-- substring
+		- ![[Pasted image 20220512143139.png]]
+- [[substring]]
 	- 含义
 		- 返回字符索引在 from 和 to（不含）之间的子串
 	- 代码
 		- `str.substring(from, to)`
-- toLowerCase
+		- ![[Pasted image 20220512143126.png]]
+- [[toLowerCase]]
 	- 含义
 		- 将字符串转换为小写
 	- 代码
 		- `str.toLowerCase()`
-- toUpperCase
+- [[toUpperCase]]
 	- 含义
 		- 将字符串转换为大写
 	- 代码
 		- `str.toUpperCase()`
-- valueOf
+- [[valueOf]]
 	- 含义
 		- 返回原始字符串值
 	- 代码

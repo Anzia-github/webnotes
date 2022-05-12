@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/Vue核心部分.md",
+            "file": "战斗记录/组件通信方式.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Vue核心部分.md",
+                "file": "战斗记录/组件通信方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/Vue核心部分.md"
+                "file": "战斗记录/组件通信方式.md"
               }
             }
           },
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Vue核心部分.md",
+                "file": "战斗记录/组件通信方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +128,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/Vue核心部分.md",
+    "战斗记录/组件通信方式.md",
+    "战斗记录/vuex.md",
+    "战斗记录/深拷贝.md",
+    "战斗记录/String.md",
     "战斗记录/Vue.md",
-    "战斗记录/patch.md",
-    "战斗记录/组件渲染流程.md",
-    "战斗记录/组件渲染流程.md",
-    "战斗记录/插入排序.md",
+    "微信读书/成就上瘾.md",
+    "战斗记录/快速排序.md",
     "战斗记录/排序算法.md",
-    "战斗记录/选择排序.md",
-    "战斗记录/冒泡排序.md",
-    "战斗记录/JS请求的缓存处理.md"
+    "战斗记录/Algorithm.md",
+    "战斗记录/基数排序.md"
   ]
 }
