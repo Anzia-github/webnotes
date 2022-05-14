@@ -1,0 +1,9 @@
+- 含义
+	- 可以拿到子组件里面的属性
+	- 在子组件中传入属性然后渲染
+- 步骤
+	- ![[2515ece3689249efbd205d2fd6dda57c_tplv-k3u1fbpfcp-zoom-in-crop-mark_1304_0_0_0.webp]]
+	- ![[ef974fde9b1841d4bf5f2624d5951bb3_tplv-k3u1fbpfcp-zoom-in-crop-mark_1304_0_0_0.webp]]
+	- [[作用域slot]]的编译结果
+		- ![[0a94ce2443aa4eb1809a1de30e52d22b_tplv-k3u1fbpfcp-zoom-in-crop-mark_1304_0_0_0.webp]]
+		- ![[af45b0d4954642bea25c74cc1d1ce8fe_tplv-k3u1fbpfcp-zoom-in-crop-mark_1304_0_0_0.webp]]

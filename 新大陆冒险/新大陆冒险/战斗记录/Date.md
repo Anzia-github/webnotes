@@ -1,0 +1,112 @@
+- 语法
+	- ![[Pasted image 20220513142702.png]]
+- 属性
+	- [[Date.prototype]]
+		- 允许为Date对象添加属性
+	- [[Date.length]]
+		- 值是7，这是该[[构造函数]]可接受的参数个数
+- 方法
+	- [[Date.now()]]
+		- 返回自 1970-1-1 00:00:00  UTC（世界标准时间）至今所经过的毫秒数
+	- [[Date.parse()]]
+		- 解析一个表示日期的字符串，并返回从 1970-1-1 00:00:00 所经过的毫秒数
+	- [[Date.UTC()]]
+		- 接受和构造函数最长形式的参数相同的参数（从2到7），并返回从 1970-01-01 00:00:00 UTC 开始所经过的毫秒数
+	- ![[Pasted image 20220513143040.png]]
+- 实例
+	- 实例属性
+		- [[Date.prototype.constructor]]
+			- 返回创建了实例的构造函数，默认是 Date 构造函数
+	- 实例方法
+		- [[Date.prototype.getDate()]]
+			- 根据本地时间，返回一个指定的 Date 对象为一个月中的哪一日（1-31）
+		- [[Date.prototype.getDay()]]
+			- 根据本地时间，返回一个指定的 Date 对象是在一周中的第几天（0-6），0 表示星期天
+		- [[Date.prototype.getFullYear()]]
+			- 根据本地时间，返回一个指定的 Date 对象的完整年份（四位数年份）
+		- [[Date.prototype.getHours()]]
+			- 根据本地时间，返回一个指定的 Date 对象的小时（0–23）
+		- [[Date.prototype.getMilliseconds()]]
+			- 根据本地时间，返回一个指定的 Date 对象的毫秒数（0–999）
+		- [[Date.prototype.getMinutes()]]
+			- 根据本地时间，返回一个指定的 Date 对象的分钟数（0–59）
+		- [[Date.prototype.getMonth()]]
+			- 根据本地时间，返回一个指定的 Date 对象的月份（0–11），0 表示一年中的第一月
+		- [[Date.prototype.getSeconds()]]
+			- 根据本地时间，返回一个指定的 Date 对象的秒数（0–59）
+		- [[Date.prototype.getTime()]]
+			- 返回一个数值，表示从 1970 年 1 月 1 日 0 时 0 分 0 秒（UTC，即协调世界时）距离该 Date 对象所代表时间的毫秒数。（更早的时间会用负数表示）
+		- [[Date.prototype.getTimezoneOffset()]]
+			- 返回协调世界时（UTC）相对于当前时区的时间差值，单位为分钟
+		- [[Date.prototype.getUTCDate()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象为一个月中的哪一日（1-31）
+		- [[Date.prototype.getUTCDay()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象是在一周中的第几天（0-6），0 表示星期天
+		- [[Date.prototype.getUTCFullYear()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的完整年份（四位数年份）
+		- [[Date.prototype.getUTCHours()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的小时（0–23）
+		- [[Date.prototype.getUTCMilliseconds()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的毫秒数（0–999）
+		- [[Date.prototype.getUTCMinutes()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的分钟数（0–59）
+		- [[Date.prototype.getUTCMonth()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的月份（0–11），0 表示一年中的第一月
+		- [[Date.prototype.getUTCSeconds()]]
+			- 以协调世界时为标准，返回一个指定的 Date 对象的秒数（0–59）
+		- [[Date.prototype.getYear()]]
+			- 根据本地时间，返回一个指定的 Date 对象的相对年份（相对1900年，通常是 2 到 3 位数字）。请改用 getFullYear 
+		- [[Date.prototype.setDate()]]
+			- 根据本地时间，设置一个 Date 对象在所属月份中的天数
+		- [[Date.prototype.setFullYear()]]
+			- 根据本地时间，设置一个 Date 对象的完整年份（四位数年份）
+		- [[Date.prototype.setHours()]]
+			- 根据本地时间，设置一个 Date 对象的小时数
+		- [[Date.prototype.setMilliseconds()]]
+			- 根据本地时间，设置一个 Date 对象的豪秒数
+		- [[Date.prototype.setMinutes()]]
+			- 根据本地时间，设置一个 Date 对象的分钟数
+		- [[Date.prototype.setMonth()]]
+			- 根据本地时间，设置一个 Date 对象的月份
+		- [[Date.prototype.setSeconds()]]
+			- 根据本地时间，设置一个 Date 对象的秒数
+		- [[Date.prototype.setTime()]]
+			- 用一个从1970-1-1 00:00:00 UTC计时的毫秒数来为一个 Date 对象设置时间。用负数来设置更早的时间
+		- [[Date.prototype.setUTCDate()]]
+			- 以协调世界时为标准，设置一个 Date 对象在所属月份中的天数
+		- [[Date.prototype.setUTCFullYear()]]
+			- 以协调世界时为标准，设置一个 Date 对象的完整年份（四位数年份）
+		- [[Date.prototype.setUTCHours()]]
+			- 以协调世界时为标准，设置一个 Date 对象的小时数
+		- [[Date.prototype.setUTCMilliseconds()]]
+			- 以协调世界时为标准，设置一个 Date 对象的豪秒数
+		- [[Date.prototype.setUTCMinutes()]]
+			- 以协调世界时为标准，设置一个 Date 对象的分钟数
+		- [[Date.prototype.setUTCMonth()]]
+			- 以协调世界时为标准，设置一个 Date 对象的月份
+		- [[Date.prototype.setUTCSeconds()]]
+			- 以协调世界时为标准，设置一个 Date 对象的秒数
+		- [[Date.prototype.setYear()]]
+			- 根据本地时间，设置一个 Date 对象的相对年份（相对1900年，通常是 2 到 3 位数字）
+		- [[Date.prototype.toDateString()]]
+			- 以美式英语和人类易读的表述形式返回一个 Date 对象日期部分的字符串
+		- [[Date.prototype.toISOString()]]
+			- 将指定 Date 对象转换成 ISO 格式表述的字符串并返回
+		- [[Date.prototype.toJSON()]]
+			- 返回指定 Date 对象调用 toISOString() 方法的返回值。在 JSON.stringify() 中使用
+		- [[Date.prototype.toGMTString()]]
+			- 基于 GMT (UTC) 时区来返回一个表述指定 Date 对象的字符串形式。请改用 toUTCString()
+		- [[Date.prototype.toLocaleDateString()]]
+			- 返回一个表述指定 Date 对象的日期部分字符串。该字符串格式因不同语言而不同
+		- [[Date.prototype.toLocaleString()]]
+			- 返回一个表述指定 Date 对象的字符串。该字符串格式因不同语言而不同
+		- [[Date.prototype.toLocaleTimeString()]]
+			- 返回一个表述指定 Date 对象时间部分的的字符串。该字符串格式因不同语言而不同
+		- [[Date.prototype.toString()]]
+			- 返回一个字符串，表示该 Date 对象。覆盖了 Object.prototype.toString() 方法
+		- [[Date.prototype.toTimeString()]]
+			- 以人类易读形式返回一个 Date 对象时间部分的字符串，该字符串以美式英语格式化
+		- [[Date.prototype.toUTCString()]]
+			- 使用UTC时区，把一个 Date 对象转换为一个字符串
+		- [[Date.prototype.valueOf()]]
+			- 返回一个 Date 对象的原始值。覆盖了 Object.prototype.valueOf() 方法

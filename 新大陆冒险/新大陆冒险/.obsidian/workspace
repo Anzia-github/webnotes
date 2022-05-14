@@ -7,13 +7,8 @@
         "id": "cdc72b866e0154df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "战斗记录/Math.random().md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Math.random().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -81,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "战斗记录/Math.random().md"
-              }
+              "state": {}
             }
           },
           {
@@ -100,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Math.random().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +119,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/Math.random().md",
-    "战斗记录/Math.md",
-    "战斗记录/Object.md",
-    "战斗记录/Object.assign().md",
-    "战斗记录/深拷贝.md",
-    "战斗记录/JS.md",
-    "战斗记录/DOM.md",
-    "战斗记录/Array.md",
-    "战斗记录/String.md",
-    "战斗记录/原型链.md"
+    "微信读书/刻意练习.md",
+    "战斗记录/事件修饰符.md",
+    "战斗记录/Vue修饰符.md",
+    "战斗记录/表单修饰符.md",
+    "战斗记录/事件绑定的方式.md",
+    "战斗记录/键值修饰符.md",
+    "战斗记录/v-bind修饰符.md",
+    "战斗记录/鼠标按键修饰符.md",
+    "战斗记录/Vue.md",
+    "战斗记录/组件写name的好处.md"
   ]
 }
