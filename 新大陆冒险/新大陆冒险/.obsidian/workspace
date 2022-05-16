@@ -7,8 +7,13 @@
         "id": "cdc72b866e0154df",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "战斗记录/keep-alive.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -65,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "战斗记录/keep-alive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -75,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "战斗记录/keep-alive.md"
+              }
             }
           },
           {
@@ -92,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "战斗记录/keep-alive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +129,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
+    "战斗记录/keep-alive.md",
+    "战斗记录/Vue.md",
+    "战斗记录/nextTick.md",
+    "战斗记录/组件通信方式.md",
     "微信读书/刻意练习.md",
     "战斗记录/事件修饰符.md",
     "战斗记录/Vue修饰符.md",
     "战斗记录/表单修饰符.md",
     "战斗记录/事件绑定的方式.md",
-    "战斗记录/键值修饰符.md",
-    "战斗记录/v-bind修饰符.md",
-    "战斗记录/鼠标按键修饰符.md",
-    "战斗记录/Vue.md",
-    "战斗记录/组件写name的好处.md"
+    "战斗记录/键值修饰符.md"
   ]
 }

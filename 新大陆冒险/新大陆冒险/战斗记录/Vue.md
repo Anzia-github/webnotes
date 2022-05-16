@@ -28,3 +28,4 @@
 - [[Vue.use]]
 - [[组件写name的好处]]
 - [[Vue修饰符]]
+- [[keep-alive]]
