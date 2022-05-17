@@ -7,13 +7,8 @@
         "id": "cdc72b866e0154df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "战斗记录/Vue渲染过程.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,7 +66,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/Vue渲染过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "战斗记录/Vue渲染过程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -101,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/Vue渲染过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +120,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/Vue渲染过程.md",
+    "战斗记录/JS.md",
+    "战斗记录/数组扁平化.md",
+    "战斗记录/Array.md",
+    "战斗记录/axios.md",
+    "战斗记录/fetch.md",
+    "战斗记录/export.md",
+    "战斗记录/import.md",
+    "战斗记录/Vue定义全局变量.md",
     "战斗记录/Vue.md",
-    "战斗记录/keep-alive.md",
-    "战斗记录/nextTick.md",
-    "战斗记录/组件通信方式.md",
-    "微信读书/刻意练习.md",
-    "战斗记录/事件修饰符.md",
-    "战斗记录/Vue修饰符.md",
-    "战斗记录/表单修饰符.md",
-    "战斗记录/事件绑定的方式.md"
+    "战斗记录/路由守卫.md"
   ]
 }
