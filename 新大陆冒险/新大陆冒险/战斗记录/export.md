@@ -1,0 +1,6 @@
+- 可以出现在模块的任何位置，但必须处于模块顶层
+- export default命令
+	- 在一个文件或模块中，[[export]]、[[import]]可以有多个，export default仅有一个
+	- export default中的default时对应的导出接口变量
+	- 通过[[export]]方式导出，在导入时要加上{ }，export default则不需要
+	- export default向外暴露成员，可以使用任意变量来接收

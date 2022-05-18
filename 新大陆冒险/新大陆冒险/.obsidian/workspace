@@ -130,14 +130,14 @@
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
     "战斗记录/ES6.md",
-    "战斗记录/数组扁平化.md",
-    "战斗记录/JS.md",
-    "战斗记录/内存泄漏.md",
-    "战斗记录/WeakMap.md",
-    "战斗记录/Map.md",
-    "战斗记录/Vue.md",
-    "战斗记录/watch.md",
-    "战斗记录/回调函数.md",
-    "战斗记录/异步任务.md"
+    "战斗记录/sessionStorage.md",
+    "战斗记录/export.md",
+    "战斗记录/import.md",
+    "async/await.md",
+    "战斗记录/async.md",
+    "战斗记录/String.md",
+    "魔法书定制/Reflect.md",
+    "战斗记录/Proxy.md",
+    "战斗记录/Promise.md"
   ]
 }

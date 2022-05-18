@@ -1,13 +1,18 @@
-💖What is happiness today?
-
-
-🌹Are you living your ideal day？
-
-
-🎵What is the best song to hear today?
-
-
-📝Write a sentence to motivate yourself tomorrow.
-
-
----
+- 含义
+	- 将[[Object]]对象的一些明显属于语言内部的方法（比如[[Object.defineProperty()]]，放到[[Reflect]]对象上
+	- [[Reflect]]对象的方法与[[Proxy]]对象的方法一一对应
+		- 不管[[Proxy]]怎么修改默认行为，你总可以在[[Reflect]]上获取默认行为
+- 13个静态方法
+	- [[Reflect.apply(target, thisArg, args)]]
+	- [[Reflect.construct(target, args)]]
+	- [[Reflect.get(target, name, receiver)]]
+	- [[Reflect.set(target, name, value, receiver)]]
+	- [[Reflect.defineProperty(target, name, desc)]]
+	- [[Reflect.deleteProperty(target, name)]]
+	- [[Reflect.has(target, name)]]
+	- [[Reflect.ownKeys(target)]]
+	- [[Reflect.isExtensible(target)]]
+	- [[Reflect.preventExtensions(target)]]
+	- [[Reflect.getOwnPropertyDescriptor(target, name)]]
+	- [[Reflect.getPrototypeOf(target)]]
+	- [[Reflect.setPrototypeOf(target, prototype)]]

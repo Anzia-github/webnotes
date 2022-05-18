@@ -1,0 +1,10 @@
+- [[async]]返回一个[[Promise]]对象，可以使用then方法添加回调函数
+- [[async]]函数执行时，如果遇到[[await]]就会先暂停执行
+	- 等到触发的异步操作完成后，恢复[[async]]函数的执行并返回解析值
+- [[await]]关键字值在[[async]]函数内有效，否则会报错
+- [[await]]针对不同表达式的处理方式
+	- Promise 对象
+		- await 会暂停执行，等待 Promise 对象 resolve
+		- 然后恢复 async 函数的执行并返回解析值
+	- 非 Promise 对象
+		- 直接返回对应的值
