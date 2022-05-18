@@ -7,8 +7,13 @@
         "id": "cdc72b866e0154df",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "战斗记录/ES6.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "战斗记录/ES6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -76,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "战斗记录/ES6.md"
+              }
             }
           },
           {
@@ -93,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "战斗记录/ES6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +129,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/JS.md",
+    "战斗记录/ES6.md",
     "战斗记录/数组扁平化.md",
-    "战斗记录/Array.md",
-    "战斗记录/axios.md",
-    "战斗记录/fetch.md",
-    "战斗记录/export.md",
-    "战斗记录/import.md",
-    "战斗记录/Vue定义全局变量.md",
+    "战斗记录/JS.md",
+    "战斗记录/内存泄漏.md",
+    "战斗记录/WeakMap.md",
+    "战斗记录/Map.md",
     "战斗记录/Vue.md",
-    "战斗记录/路由守卫.md"
+    "战斗记录/watch.md",
+    "战斗记录/回调函数.md",
+    "战斗记录/异步任务.md"
   ]
 }
