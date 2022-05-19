@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/移动端适配方案.md",
+            "file": "战斗记录/服务端渲染.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/移动端适配方案.md",
+                "file": "战斗记录/服务端渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/移动端适配方案.md"
+                "file": "战斗记录/服务端渲染.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/移动端适配方案.md",
+                "file": "战斗记录/服务端渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
-    "战斗记录/移动端适配方案.md",
-    "战斗记录/移动端.md",
+    "战斗记录/服务端渲染.md",
+    "战斗记录/SSR.md",
+    "战斗记录/Vue.md",
     "前端大法师/Front end Knowledge.md",
-    "战斗记录/ES6.md",
-    "战斗记录/sessionStorage.md",
-    "战斗记录/export.md",
-    "战斗记录/import.md",
-    "async/await.md",
-    "战斗记录/async.md",
-    "战斗记录/String.md"
+    "战斗记录/性能优化.md",
+    "战斗记录/@import.md",
+    "战斗记录/懒加载.md",
+    "战斗记录/移动端适配方案.md",
+    "战斗记录/viewport.md",
+    "战斗记录/移动端.md"
   ]
 }
