@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "战斗记录/正则表达式.md",
+            "file": "战斗记录/async await.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6ec3b0a64be342f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "战斗记录/正则表达式.md",
+                "file": "战斗记录/async await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战斗记录/正则表达式.md"
+                "file": "战斗记录/async await.md"
               }
             }
           },
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "战斗记录/正则表达式.md",
+                "file": "战斗记录/async await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +128,15 @@
   },
   "active": "cdc72b866e0154df",
   "lastOpenFiles": [
+    "战斗记录/async await.md",
+    "async/await.md",
+    "战斗记录/ES6.md",
     "战斗记录/正则表达式.md",
     "战斗记录/pupputeer.md",
     "战斗记录/爬虫.md",
     "前端大法师/Front end Knowledge.md",
     "战斗记录/require.md",
     "战斗记录/状态码.md",
-    "战斗记录/WebGL.md",
-    "战斗记录/JS.md",
-    "战斗记录/Ajax.md",
-    "战斗记录/Promise.md"
+    "战斗记录/WebGL.md"
   ]
 }
