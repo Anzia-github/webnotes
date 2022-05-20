@@ -4,7 +4,7 @@
 - [[WeakMap]]
 - [[箭头函数]]
 - [[Promise]]
-- [[async/await]]
+- [[async await]]
 - [[解构赋值]]
 	- ![[Pasted image 20220518100605.png]]
 - [[class]]
