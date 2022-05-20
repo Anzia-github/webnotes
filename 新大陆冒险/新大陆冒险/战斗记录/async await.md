@@ -19,12 +19,11 @@
 	- 多个[[await]]会打破[[Fetch]]的并行
 		- 正确操作
 			- 对[[Promise]].all使用[[await]]
-			- ![[Pasted image 20220520113507.png]]
+			- ![[Pasted image 20220521005335.png]]
 	- 在[[forEach]]和map中使用[[await]]
 		- 这样结果会立即返回，不会暂停等到所有[[异步]]操作都执行完毕
 		- 正确操作
 			- 使用普通的for
 			- 使用for await
-				- ![[Pasted image 20220520113853.png]]
+				- ![[Pasted image 20220521005409.png]]
 - 没有[[await]]就没法获取结果了，除非这里面使用then
-	- ![[Pasted image 20220520114326.png]]
