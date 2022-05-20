@@ -13,6 +13,24 @@
 	- 状态的改变是通过resolve()和reject()函数来实现的，我们可以在异步操作结束后调用这两个函数改变[[Promise]]实例的状态
 	- 它的原型上定义了一个then方法，使用这个then方法可以为两个状态的改变注册[[回调函数]]
 	- 这个回调函数属于[[微任务]]，会在本轮[[事件循环]]的末尾执行
+- 例子
+	```JS
+	let p = new Promise((resolve, reject) => {
+	  // 做一些事情
+	  // 然后在某些条件下resolve，或者reject
+	  if (/* 条件随便写^_^ */) {
+	    resolve()
+	  } else {
+	    reject()
+	  }
+	})
+	
+	p.then(() => {
+	    // 如果p的状态被resolve了，就进入这里
+	}, () => {
+	    // 如果p的状态被reject
+	})
+	```
 - 手写代码
 	```JS
 	const PENDING = "pending";
