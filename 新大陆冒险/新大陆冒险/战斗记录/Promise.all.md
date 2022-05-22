@@ -1,0 +1,6 @@
+- 接收一个[[Promise]]的iterable类型
+	- [[Array]]
+	- [[Map]]
+	- [[Set]]
+- 返回一个[[Promise]]实例
+- 
