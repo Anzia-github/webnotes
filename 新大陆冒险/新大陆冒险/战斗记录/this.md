@@ -12,15 +12,15 @@
 		- ![[Pasted image 20220429121606.png]]
 	- [[setTimeout]]和[[setInterval]]的[[this]]指向window
 		- ![[Pasted image 20220429121431.png]]
-	- 箭头函数
-		- 全局环境中，箭头函数被设置为全局对象
+	- [[箭头函数]]
+		- 全局环境中，[[箭头函数]]被设置为全局对象
 			- ![[Pasted image 20220429130839.png]]
 		- [[this]]捕获上下文
-			- 箭头函数没有自己的 this
-			- 而是使用箭头函数所在的作用域的 this
+			- [[箭头函数]]没有自己的 this
+			- 而是使用[[箭头函数]]所在的作用域的 this
 			- ![[Pasted image 20220429130952.png]]
-				- 在 setTimeout 中的 this 指向了构造函数新生成的对象
+				- 在 setTimeout 中的 this 指向了[[构造函数]]新生成的对象
 				- 而普通函数指向了全局 window 对象
-		- 箭头函数作为对象的方法使用，指向全局 window 对象
+		- [[箭头函数]]作为对象的方法使用，指向全局 window 对象
 			- ![[Pasted image 20220429131135.png]]
-		- 箭头函数中，[[call]]、[[apply]]、[[bind]]方法无效
+		- [[箭头函数]]中，[[call]]、[[apply]]、[[bind]]方法无效

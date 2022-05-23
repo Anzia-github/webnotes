@@ -12,5 +12,5 @@
 	- 库
 		- socket.io
 	- 案例
-		- 使用websocket实现一个聊天室
+		- 使用[[WebSocket]]实现一个聊天室
 		- https://segmentfault.com/a/1190000011538416

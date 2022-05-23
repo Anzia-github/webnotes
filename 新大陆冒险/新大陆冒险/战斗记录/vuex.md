@@ -1,0 +1,15 @@
+- 安装
+	- `npm i vuex`
+- 核心内容
+	- state
+		- 存放状态
+	- getters
+		- 加工state成员给外界
+	- mutations
+		- state成员操作
+	- actions
+		- [[异步]]操作
+	- modules
+		- 模块化状态管理
+- 工作流程
+	- ![[16550832-20d0ad3c60a99111.webp]]
